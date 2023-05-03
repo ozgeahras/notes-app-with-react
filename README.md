@@ -1,23 +1,71 @@
-# co42b487d95fbd5b5c8f9c4a8
+# Notes App With React & Vite & Firebase
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+## Tech Stack
 
-Quick start:
+**Client:** Vite, React, Firebase, Es6+, Vanilla JS, HTML, CSS
 
+## Overview
+
+- onSnapshot, addDoc, doc, deleteDoc, setDoc ---> FireBase
+- useState, useEffect, react-split, Showdown ---> React
+- .find(), .sort(), .map() ---> Es6+
+- setTimeout()
+
+### Links & Demo
+
+- [Github Repo](https://github.com/ozgeahras/notes-app-with-react)
+- [Demo](https://ozgeahras.github.io/notes-app-with-react/)
+
+## Author
+
+- [@ozgeahras](https://github.com/ozgeahras)
+
+## Source
+
+- https://scrimba.com/learn/frontend
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ozgeahras/notes-app-with-react.git
 ```
-$ npm install
-$ npm start
-````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Go to the project directory
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+```bash
+  cd ..notes-app-with-react
+```
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Install dependencies
 
-Happy Coding!
+```bash
+npm install
+```
+
+Start the app
+
+```bash
+npm run dev
+```
+
+## Screenshots
+
+![App Screenshot](https://github.com/ozgeahras/notes-app-with-react/blob/master/src/assets/screenshot.png)
+
+## About Me
+
+I'm frontend developer in Istanbul/Turkey.
+
+👩‍💻 I'm currently working on React.js
+
+## 🛠 Skills
+
+Vanilla JS, React.js, Angular.js, ES6+
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ozgeahras.com/)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozgeahras/)  
+[![twitter](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ozgeahras/)

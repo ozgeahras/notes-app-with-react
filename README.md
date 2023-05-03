@@ -52,7 +52,7 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ozgeahras/notes-app-with-react/blob/master/src/assets/screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/ozgeahras/notes-app-with-react/master/public/snapshot.png)
 
 ## About Me
 
